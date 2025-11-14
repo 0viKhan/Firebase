@@ -59,6 +59,8 @@ _listOfScore.clear();
   }
 
   @override
+
+
   void initState() {
    _getLiveScoreData();
     super.initState();
